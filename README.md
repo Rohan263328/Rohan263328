@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohan263328
+- 👋 Hi, I’m @Rohan K Joseph
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web designing
 - 💞️ I’m looking to collaborate on ...
